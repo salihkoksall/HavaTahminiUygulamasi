@@ -1,0 +1,46 @@
+c:\users\calismaalani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe.config
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\bin\Debug\TasarimProje.pdb
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csprojResolveAssemblyReference.cache
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Form1.resources
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Properties.Resources.resources
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.GenerateResource.Cache
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.exe
+C:\Users\CalismaAlani\documents\visual studio 2015\Projects\TasarimProje\TasarimProje\obj\Debug\TasarimProje.pdb
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe.config
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\bin\Debug\TasarimProje.pdb
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Form1.resources
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Properties.Resources.resources
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.GenerateResource.Cache
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.CoreCompileInputs.cache
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.exe
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.pdb
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Form2.resources
+C:\Users\SalihKoksal\Desktop\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csprojResolveAssemblyReference.cache
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe.config
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\TasarimProje.exe
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\TasarimProje.pdb
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Form1.resources
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Form2.resources
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.Properties.Resources.resources
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.GenerateResource.cache
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.exe
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.pdb
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csproj.CopyComplete
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Data.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Data.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Web.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MySql.Web.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.exe.config
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MathNet.Numerics.dll
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\bin\Debug\MathNet.Numerics.xml
+C:\Users\salih\Downloads\Projeler-20180311T220001Z-001\Projeler\TasarımProje\TasarimProje\TasarimProje\obj\Debug\TasarimProje.csprojResolveAssemblyReference.cache
