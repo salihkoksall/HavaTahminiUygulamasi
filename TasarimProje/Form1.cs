@@ -17,6 +17,8 @@ namespace TasarimProje
     public partial class Form1 : Form
     {
 
+
+
         public int Sutun = 0;
         public int Satir = 0;
         public String DosyaIsmi;
