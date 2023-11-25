@@ -13,6 +13,9 @@ using MySql.Data.MySqlClient;
 
 namespace TasarimProje
 {
+
+
+    
     
     public partial class Form1 : Form
     {
