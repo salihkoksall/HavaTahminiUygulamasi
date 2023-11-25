@@ -20,6 +20,10 @@ namespace TasarimProje
 
 
         public int Sutun = 0;
+
+
+
+        
         public int Satir = 0;
         public String DosyaIsmi;
         void SatirSutunHesapla()
